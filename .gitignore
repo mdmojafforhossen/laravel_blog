@@ -18,3 +18,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+**/public/backend/plugins/**
+**/public/backend/dist/img/**
+/public/frontend/img
+
